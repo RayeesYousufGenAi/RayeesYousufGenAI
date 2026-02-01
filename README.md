@@ -12,13 +12,14 @@ I build AI-powered automation workflows and web applications that eliminate repe
 
 ## 🚀 About Me
 
-- 🔭 **Currently:** Building AI automation agents and web applications for hiring, customer support, and business workflows
+- 🔭 **Currently:** Building AI automation agents, web applications, and 3D interactive websites
 - 💼 **Background:** 5+ years as Project Manager/Coordinator at Growth99 & K2Logix
 - 💻 **Web Development:** Building modern web applications since 2024 using React, Next.js, and full-stack technologies
+- 🎨 **3D Development:** Creating immersive 3D websites with Three.js and WebGL
 - 🛒 **Ecommerce Expertise:** Creating Shopify stores, payment gateway API integration (Razorpay, Stripe, PayPal)
-- 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, Shopify development, web development
-- 💡 **Mission:** Creating cost-effective automation solutions and web apps without expensive AI APIs
-- 🎯 **Focus:** Bridging project management expertise with AI automation and web development capabilities
+- 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, Shopify development, 3D web experiences
+- 💡 **Mission:** Creating cost-effective automation solutions and cutting-edge web experiences
+- 🎯 **Focus:** Bridging project management expertise with AI automation and modern web development
 - 🏆 **Certified in:** AI Prompt Engineering, Jira PM, AI Tools, ChatGPT Expert, Customer Service, Digital Marketing
 
 ---
@@ -81,6 +82,10 @@ graph LR
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 3D & Graphics
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -123,6 +128,7 @@ const expertise = {
   webDevelopment: {
     frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
     backend: ["Node.js", "Python", "REST APIs"],
+    threeDGraphics: ["Three.js", "WebGL"],
     since: "2024"
   },
   automation: {
@@ -130,10 +136,14 @@ const expertise = {
     specialization: ["Workflow Design", "AI Agents", "Integration"],
     approach: "Cost-effective, rule-based solutions"
   },
+  ecommerce: {
+    platforms: ["Shopify", "WooCommerce"],
+    payments: ["Razorpay", "Stripe", "PayPal"]
+  },
   aiTools: ["ChatGPT", "Claude AI", "Google Gemini", "Perplexity"],
   promptEngineering: "Certified Professional",
   integrations: ["WhatsApp API", "Google Sheets", "CRM Systems", "Payment Gateways"],
-  focus: "Building intelligent automation and modern web apps"
+  focus: "Building intelligent automation, 3D web experiences, and modern apps"
 };
 ```
 
@@ -151,19 +161,6 @@ const expertise = {
 - 🌐 **WordPress & WooCommerce** - Site management, maintenance, ecommerce setup
 - 📈 **SEO & Analytics** - GA4, Search Console, Tag Manager, conversion tracking
 - 🚀 **Launch Coordination** - UAT, QA, go-live, post-launch support
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayeesYousufGenAi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayeesYousufGenAi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayeesYousufGenAi&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
 
 ---
 
@@ -218,11 +215,13 @@ I understand the pain points of manual project coordination because I've lived t
 - Building intelligent automation workflows and modern web applications
 - Creating AI agents for hiring, support, and operations
 - Developing full-stack web solutions using React, Next.js, and Node.js
+- Creating immersive 3D websites with Three.js and WebGL
 
 **2024 - Present:** Web Development Journey
 - Started building modern web applications
 - Mastered React, Next.js, TypeScript, and Tailwind CSS
 - Creating responsive, user-friendly interfaces
+- Developing 3D interactive web experiences
 
 **May 2025 - Present:** Project Coordinator @ Growth99
 - Coordinating service delivery across multiple teams
