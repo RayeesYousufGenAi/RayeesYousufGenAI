@@ -161,6 +161,122 @@ Professional e-commerce store built on Shopify platform showcasing no-code exper
 
 ---
 
+## 🤖 Automation Projects Portfolio
+
+**AI-Powered Workflow Automation with n8n | Free API Integrations**
+
+### 🚀 [Automated Client Onboarding System](https://github.com/RayeesYousufGenAi/client-onboarding-automation)
+**Streamline client onboarding with intelligent automation**
+
+Comprehensive n8n workflow that automates the entire client onboarding process from signup to activation.
+
+**Features:**
+- ✅ AI-personalized welcome emails using Gemini API
+- ✅ Automated document collection via Google Drive
+- ✅ Task creation in ClickUp/Asana
+- ✅ Progress tracking dashboard
+- ✅ Team notifications via Slack
+
+**Tech Stack:** n8n, Gemini API, Gmail, Google Drive, ClickUp
+
+**Use Case:** Agencies, SaaS companies, service providers
+
+---
+
+### 📊 [Project Status Report Generator](https://github.com/RayeesYousufGenAi/project-status-reports)
+**AI-powered automated project reporting**
+
+Automatically generates and distributes intelligent project status reports from PM tools.
+
+**Features:**
+- ✅ Multi-platform integration (JIRA, ClickUp, Asana)
+- ✅ AI-generated summaries with Gemini
+- ✅ Automated email/Slack distribution
+- ✅ Custom report templates
+- ✅ Weekly/daily scheduling
+
+**Tech Stack:** n8n, Gemini API, JIRA/ClickUp, Slack
+
+**Use Case:** Project coordinators, PMO teams, operations managers
+
+---
+
+### ⚡ [SLA Monitoring & Alert System](https://github.com/RayeesYousufGenAi/sla-monitoring-system)
+**Real-time SLA tracking with intelligent alerts**
+
+Monitors ticket SLAs and sends proactive breach prevention alerts with AI-powered escalation.
+
+**Features:**
+- ✅ Real-time SLA tracking
+- ✅ Multi-level breach alerts (50%, 75%, 90%)
+- ✅ AI-powered escalation suggestions
+- ✅ Multi-channel notifications
+- ✅ SLA compliance reporting
+
+**Tech Stack:** n8n, Gemini API, Zendesk/Zoho Desk, Slack
+
+**Use Case:** Service delivery teams, support operations, client success
+
+---
+
+### 🎫 [Ticket Routing & Escalation Automation](https://github.com/RayeesYousufGenAi/ticket-routing-automation)
+**Intelligently route tickets with AI classification**
+
+AI-powered ticket routing system that categorizes, prioritizes, and assigns tickets automatically.
+
+**Features:**
+- ✅ AI-powered ticket categorization (Gemini/Hugging Face)
+- ✅ Skill-based assignment
+- ✅ Workload balancing
+- ✅ Auto-escalation workflows
+- ✅ Priority-based routing
+
+**Tech Stack:** n8n, Gemini, Hugging Face, Zendesk/Freshdesk
+
+**Use Case:** Support teams, operations coordinators, help desk managers
+
+---
+
+### 🎙️ [Automated Meeting Notes & Action Items](https://github.com/RayeesYousufGenAi/meeting-notes-automation)
+**Convert meetings to notes and tasks automatically**
+
+Transcribes meetings, generates AI summaries, extracts action items, and creates tasks.
+
+**Features:**
+- ✅ Auto-transcription (AssemblyAI/Deepgram)
+- ✅ AI-powered summarization with Gemini
+- ✅ Action item extraction
+- ✅ Automatic task creation in PM tools
+- ✅ Follow-up email distribution
+
+**Tech Stack:** n8n, AssemblyAI, Gemini API, ClickUp/Asana
+
+**Use Case:** Project managers, remote teams, operations managers
+
+---
+
+### 🛒 [E-commerce Order Fulfillment Automation](https://github.com/RayeesYousufGenAi/ecommerce-fulfillment-automation)
+**Complete order processing automation**
+
+Automates order processing, inventory updates, vendor notifications, and customer communications.
+
+**Features:**
+- ✅ Order notifications from Shopify/WooCommerce
+- ✅ Inventory management
+- ✅ Vendor notifications (dropshipping)
+- ✅ AI-personalized customer emails
+- ✅ Tracking number updates
+
+**Tech Stack:** n8n, Shopify/WooCommerce API, Gemini API, SendGrid
+
+**Use Case:** E-commerce operations, Shopify coordinators, fulfillment teams
+
+---
+
+**🆓 All automation projects use FREE tier APIs** (Gemini, OpenRouter, Hugging Face, Gmail, Google Sheets, ClickUp, Slack)
+
+---
+
 ## 🎯 Core Expertise
 
 ### AI Automation & Web Development
