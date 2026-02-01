@@ -99,6 +99,44 @@ Built for Catalyst Hiring Solutions to automate the entire candidate screening w
 
 ---
 
+### 💼 [Catalyst Hiring Solutions](https://github.com/RayeesYousufGenAi/catalyst-hiring-solutions)
+**Professional recruitment and talent acquisition platform**  
+🌐 **Live:** [catalysthiringsolutions.in](http://catalysthiringsolutions.in/)
+
+Modern, responsive recruitment website showcasing comprehensive hiring services.
+
+**Features:**
+- ✅ Executive search, volume hiring, tech recruitment services
+- ✅ Fully responsive design (mobile, tablet, desktop)
+- ✅ SEO optimized with meta tags and semantic HTML
+- ✅ Contact forms and service showcase
+- ✅ Professional UI/UX with smooth animations
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
+
+**Topics:** `recruitment` `hiring-platform` `talent-acquisition` `html-css-javascript` `responsive-website`
+
+---
+
+### 🏔️ [Akta Shaf Kashmir Tours](https://github.com/RayeesYousufGenAi/aktashaf-kashmir-tours)
+**Kashmir tour packages and travel booking platform**  
+🌐 **Live:** [aktashafkashmir.com](https://aktashafkashmir.com/)
+
+Beautiful travel website featuring Kashmir tour packages with booking functionality.
+
+**Features:**
+- ✅ Multiple tour packages (Adventure, Sonamarg, Gulmarg, Gurez Valley)
+- ✅ 20+ travel blogs with SEO optimization
+- ✅ Responsive design with mobile-first approach
+- ✅ Contact forms and WhatsApp integration
+- ✅ Sitemap, robots.txt, and PWA support
+
+**Tech Stack:** HTML5, CSS3, JavaScript, SEO, PWA
+
+**Topics:** `kashmir-tours` `travel-website` `tour-packages` `tourism` `responsive-website`
+
+---
+
 ## 🎯 Core Expertise
 
 ### AI Automation & Web Development
