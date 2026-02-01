@@ -1,6 +1,10 @@
 # Hi there, I'm Rayees Yousuf 👋
 
-### AI Automation Engineer | Project Manager | Workflow Architect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Automation%20Engineer&fontSize=40&fontAlignY=35&desc=Building%20Intelligent%20Workflows%20%26%20Web%20Applications&descAlignY=55" width="100%">
+</div>
+
+### AI Automation Engineer | Web Developer | Project Manager
 
 **Transforming 5+ years of project management & operations expertise into intelligent automation solutions**
 
@@ -20,7 +24,7 @@ I build AI-powered automation workflows and web applications that eliminate repe
 - 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, Shopify development, 3D web experiences
 - 💡 **Mission:** Creating cost-effective automation solutions and cutting-edge web experiences
 - 🎯 **Focus:** Bridging project management expertise with AI automation and modern web development
-
+- 🏆 **Certified in:** AI Prompt Engineering, Jira PM, AI Tools, ChatGPT Expert, Customer Service, Digital Marketing
 
 ---
 
