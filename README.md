@@ -20,7 +20,7 @@ I build AI-powered automation workflows and web applications that eliminate repe
 - 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, Shopify development, 3D web experiences
 - 💡 **Mission:** Creating cost-effective automation solutions and cutting-edge web experiences
 - 🎯 **Focus:** Bridging project management expertise with AI automation and modern web development
-- 🏆 **Certified in:** AI Prompt Engineering, Jira PM, AI Tools, ChatGPT Expert, Customer Service, Digital Marketing
+
 
 ---
 
