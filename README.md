@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rayees+Yousuf;AI+Automation+Engineer+%7C+Web+Developer;Building+Intelligent+Workflows+%26+Applications;5%2B+Years+Project+Management+Experience" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header" width="100%">
+</div>
+
+<div align="center" style="margin-top: -100px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rayees+Yousuf;AI+Automation+Engineer+%7C+Web+Developer;Building+Intelligent+Workflows+%26+Applications;5%2B+Years+Project+Management+Experience" alt="Typing SVG" />
 </div>
 
 
