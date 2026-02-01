@@ -24,4 +24,4 @@ I come from a **project coordination & operations** background (5+ years), which
 - Share automation templates  
 - Collaborate on open-source AI projects  
 
-📫 Connect with me on [LinkedIn](YOUR_LINK_HERE)
+📫 Connect with me on
