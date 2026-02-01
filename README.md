@@ -33,9 +33,19 @@ I build AI-powered automation workflows and web applications that eliminate repe
 
 ### AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6F00?style=for-the-badge&logo=stablediffusion&logoColor=white)
+![Runway](https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=runway&logoColor=white)
 
 ### Project Management & Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -49,11 +59,41 @@ I build AI-powered automation workflows and web applications that eliminate repe
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 
 ### Payment Gateways
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Paytm](https://img.shields.io/badge/Paytm-00BAF2?style=for-the-badge&logo=paytm&logoColor=white)
+![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white)
+![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
+
+### Print-on-Demand Platforms
+![Printful](https://img.shields.io/badge/Printful-E25041?style=for-the-badge&logo=printful&logoColor=white)
+![Printify](https://img.shields.io/badge/Printify-39B54A?style=for-the-badge&logo=printify&logoColor=white)
+![Gelato](https://img.shields.io/badge/Gelato-000000?style=for-the-badge&logo=gelato&logoColor=white)
+![Fourthwall](https://img.shields.io/badge/Fourthwall-FF4D4D?style=for-the-badge&logo=fourthwall&logoColor=white)
+![Teespring](https://img.shields.io/badge/Teespring-39ACE6?style=for-the-badge&logo=teespring&logoColor=white)
+![Redbubble](https://img.shields.io/badge/Redbubble-E41321?style=for-the-badge&logo=redbubble&logoColor=white)
+![SPOD](https://img.shields.io/badge/SPOD-FF6B35?style=for-the-badge&logo=spod&logoColor=white)
+![CustomCat](https://img.shields.io/badge/CustomCat-4A90E2?style=for-the-badge&logo=customcat&logoColor=white)
+![Gooten](https://img.shields.io/badge/Gooten-00C4CC?style=for-the-badge&logo=gooten&logoColor=white)
+![Merchify](https://img.shields.io/badge/Merchify-6C5CE7?style=for-the-badge&logo=merchify&logoColor=white)
+![Lulu](https://img.shields.io/badge/Lulu-E94B3C?style=for-the-badge&logo=lulu&logoColor=white)
+
+### AI Coding Assistants
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Emergent](https://img.shields.io/badge/Emergent-FF6B6B?style=for-the-badge&logo=emergent&logoColor=white)
+![Vibe](https://img.shields.io/badge/Vibe-7C3AED?style=for-the-badge&logo=vibe&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
+![Tabnine](https://img.shields.io/badge/Tabnine-5B4FE9?style=for-the-badge&logo=tabnine&logoColor=white)
+![Replit AI](https://img.shields.io/badge/Replit%20AI-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
 ### Analytics & SEO
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
@@ -294,8 +334,8 @@ const expertise = {
     approach: "Cost-effective, rule-based solutions"
   },
   ecommerce: {
-    platforms: ["Shopify", "WooCommerce"],
-    payments: ["Razorpay", "Stripe", "PayPal"]
+    platforms: ["Shopify", "WooCommerce", "Wix", "Squarespace", "Webflow", "Magento"],
+    payments: ["Razorpay", "Stripe", "PayPal", "Paytm", "PhonePe", "Google Pay"]
   },
   aiTools: ["ChatGPT", "Claude AI", "Google Gemini", "Perplexity"],
   promptEngineering: "Certified Professional",
@@ -383,15 +423,15 @@ I understand the pain points of manual project coordination because I've lived t
 
 **Project Management:** Jira • ClickUp • Asana • Monday.com • Notion • Trello • Basecamp • Smartsheet
 
-**Automation:** n8n • Zapier • Make (Integromat)
+**Automation:** n8n • Make (Integromat) • Zapier
 
-**AI Tools:** ChatGPT • Claude AI • Google Gemini • Perplexity • Gamma.app
+**AI Tools:** ChatGPT • OpenAI • Claude • Anthropic • Google Gemini • Perplexity • Hugging Face • Midjourney • DALL·E • Stable Diffusion • Runway • Gamma.app
 
 **Communication:** Slack • Microsoft Teams • Zoom • Google Meet • Loom
 
 **Analytics:** Google Analytics (GA4) • Search Console • Tag Manager
 
-**Platforms:** Shopify • WordPress • WooCommerce • Wix
+**Platforms:** Shopify • WordPress • WooCommerce • Wix • Squarespace • Webflow • Magento
 
 **Hosting:** Hostinger • GoDaddy • Namecheap • Cloudflare
 
