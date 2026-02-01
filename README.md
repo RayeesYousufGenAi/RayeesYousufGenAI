@@ -15,7 +15,8 @@ I build AI-powered automation workflows and web applications that eliminate repe
 - 🔭 **Currently:** Building AI automation agents and web applications for hiring, customer support, and business workflows
 - 💼 **Background:** 5+ years as Project Manager/Coordinator at Growth99 & K2Logix
 - 💻 **Web Development:** Building modern web applications since 2024 using React, Next.js, and full-stack technologies
-- 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, rule-based AI systems, web development
+- 🛒 **Ecommerce Expertise:** Creating Shopify stores, payment gateway API integration (Razorpay, Stripe, PayPal)
+- 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, Shopify development, web development
 - 💡 **Mission:** Creating cost-effective automation solutions and web apps without expensive AI APIs
 - 🎯 **Focus:** Bridging project management expertise with AI automation and web development capabilities
 - 🏆 **Certified in:** AI Prompt Engineering, Jira PM, AI Tools, ChatGPT Expert, Customer Service, Digital Marketing
@@ -60,6 +61,11 @@ graph LR
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+### Payment Gateways
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 ### Analytics & SEO
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
@@ -139,10 +145,11 @@ const expertise = {
 - 🔄 **Process Optimization** - Streamlining operations and reducing bottlenecks
 
 ### Ecommerce & Digital Operations
-- 🛒 **Shopify Admin** - Product management, orders, inventory, apps
-- 🌐 **WordPress Operations** - Site management, maintenance, support
-- 💳 **Payment Integration** - Razorpay, Stripe, PayPal configuration
-- 📈 **SEO & Analytics** - GA4, Search Console, Tag Manager
+- 🛒 **Shopify Store Creation** - End-to-end store setup, theme customization, product configuration
+- 💳 **Payment Gateway Integration** - Expert in Razorpay, Stripe, PayPal API integration
+- 📦 **Shopify Admin** - Product management, orders, inventory, collections, apps
+- 🌐 **WordPress & WooCommerce** - Site management, maintenance, ecommerce setup
+- 📈 **SEO & Analytics** - GA4, Search Console, Tag Manager, conversion tracking
 - 🚀 **Launch Coordination** - UAT, QA, go-live, post-launch support
 
 ---
