@@ -6,7 +6,7 @@
 
 I build AI-powered automation workflows and web applications that eliminate repetitive tasks and streamline business operations using **n8n**, **AI agents**, **web development**, and **no-code platforms**.
 
-📍 Remote — India | 📧 rayeesyousuf80@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rayeesyousuf/)
+📧 rayeesyousuf80@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rayeesyousuf/)
 
 ---
 
@@ -21,24 +21,6 @@ I build AI-powered automation workflows and web applications that eliminate repe
 - 💡 **Mission:** Creating cost-effective automation solutions and cutting-edge web experiences
 - 🎯 **Focus:** Bridging project management expertise with AI automation and modern web development
 - 🏆 **Certified in:** AI Prompt Engineering, Jira PM, AI Tools, ChatGPT Expert, Customer Service, Digital Marketing
-
----
-
-## 💼 Professional Journey
-
-```mermaid
-graph LR
-    A[Project Coordinator<br/>K2Logix<br/>2021-2025] --> B[Project Coordinator<br/>Growth99<br/>2025-Present]
-    B --> C[AI Automation<br/>Engineer<br/>2026-Present]
-    
-    style C fill:#4CAF50,stroke:#2E7D32,color:#fff
-```
-
-**From Project Management to AI Automation:**
-- ✅ Managed 100+ client projects across WordPress, Shopify, and ecommerce platforms
-- ✅ Coordinated cross-functional teams (Dev, SEO, Design, QA, Infrastructure)
-- ✅ Streamlined operations through SOP standardization and workflow optimization
-- ✅ Now building AI agents that automate the very workflows I used to manage manually
 
 ---
 
