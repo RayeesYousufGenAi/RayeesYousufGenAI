@@ -14,7 +14,7 @@ I build AI-powered automation workflows and web applications that eliminate repe
 
 - 🔭 **Currently:** Building AI automation agents, web applications, and 3D interactive websites
 - 💼 **Background:** 5+ years as Project Manager/Coordinator at Growth99 & K2Logix
-- 💻 **Web Development:** Building modern web applications since 2024 using React, Next.js, and full-stack technologies
+- 💻 **Web Development:** Building modern web applications since 2024 using full-stack technologies
 - 🎨 **3D Development:** Creating immersive 3D websites with Three.js and WebGL
 - 🛒 **Ecommerce Expertise:** Creating Shopify stores, payment gateway API integration (Razorpay, Stripe, PayPal)
 - 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, Shopify development, 3D web experiences
@@ -60,8 +60,6 @@ I build AI-powered automation workflows and web applications that eliminate repe
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 3D & Graphics
@@ -70,7 +68,6 @@ I build AI-powered automation workflows and web applications that eliminate repe
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -108,8 +105,8 @@ Built for Catalyst Hiring Solutions to automate the entire candidate screening w
 ```javascript
 const expertise = {
   webDevelopment: {
-    frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-    backend: ["Node.js", "Python", "REST APIs"],
+    frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "REST APIs"],
     threeDGraphics: ["Three.js", "WebGL"],
     since: "2024"
   },
@@ -185,12 +182,12 @@ I understand the pain points of manual project coordination because I've lived t
 **2026 - Present:** AI Automation Engineer & Web Developer
 - Building intelligent automation workflows and modern web applications
 - Creating AI agents for hiring, support, and operations
-- Developing full-stack web solutions using React, Next.js, and Node.js
+- Developing full-stack web solutions using modern technologies
 - Creating immersive 3D websites with Three.js and WebGL
 
 **2024 - Present:** Web Development Journey
 - Started building modern web applications
-- Mastered React, Next.js, TypeScript, and Tailwind CSS
+- Mastered HTML5, CSS3, JavaScript, TypeScript, and Tailwind CSS
 - Creating responsive, user-friendly interfaces
 - Developing 3D interactive web experiences
 
