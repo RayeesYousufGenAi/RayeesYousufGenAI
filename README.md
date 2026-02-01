@@ -146,17 +146,6 @@ const expertise = {
 
 ---
 
-## 🏆 Certifications
-
-- 🎯 **AI Prompt Engineering & Productivity** — Certified Professional
-- 🤖 **AI Tools & ChatGPT Expert** — Be10x
-- 🎓 **Jira Project Management** — Great Learning
-- 👥 **Certified Customer Service Specialist (CSS)** — NSDC
-- 📊 **Customer Experience (CX) Foundations** — LinkedIn Learning
-- 🌐 **Fundamentals of Digital Marketing** — Google Digital Garage
-
----
-
 ## 💡 What I Bring to the Table
 
 ### Unique Combination
