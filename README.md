@@ -4,20 +4,21 @@
 
 **Transforming 5+ years of project management & operations expertise into intelligent automation solutions**
 
-I build AI-powered automation workflows that eliminate repetitive tasks and streamline business operations using **n8n**, **AI agents**, and **no-code platforms**.
+I build AI-powered automation workflows and web applications that eliminate repetitive tasks and streamline business operations using **n8n**, **AI agents**, **web development**, and **no-code platforms**.
 
-📍 Remote — India | 📧 rayeesyousuf80@gmail.com | 📱 +91 70069 82491
+📍 Remote — India | 📧 rayeesyousuf80@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rayeesyousuf/)
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Currently:** Building AI automation agents for hiring, customer support, and business workflows
+- 🔭 **Currently:** Building AI automation agents and web applications for hiring, customer support, and business workflows
 - 💼 **Background:** 5+ years as Project Manager/Coordinator at Growth99 & K2Logix
-- 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, rule-based AI systems
-- 💡 **Mission:** Creating cost-effective automation solutions without expensive AI APIs
-- 🎯 **Focus:** Bridging project management expertise with AI automation capabilities
-- 🏆 **Certified in:** Jira PM, AI Tools, ChatGPT Expert, Customer Service, Digital Marketing
+- 💻 **Web Development:** Building modern web applications since 2024 using React, Next.js, and full-stack technologies
+- 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, rule-based AI systems, web development
+- 💡 **Mission:** Creating cost-effective automation solutions and web apps without expensive AI APIs
+- 🎯 **Focus:** Bridging project management expertise with AI automation and web development capabilities
+- 🏆 **Certified in:** AI Prompt Engineering, Jira PM, AI Tools, ChatGPT Expert, Customer Service, Digital Marketing
 
 ---
 
@@ -65,10 +66,19 @@ graph LR
 ![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Tag%20Manager-246FDB?style=for-the-badge&logo=google&logoColor=white)
 
-### Development & APIs
+### Web Development & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases & Integration
@@ -101,17 +111,23 @@ Built for Catalyst Hiring Solutions to automate the entire candidate screening w
 
 ## 🎯 Core Expertise
 
-### AI Automation & Workflows
+### AI Automation & Web Development
 ```javascript
 const expertise = {
+  webDevelopment: {
+    frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
+    backend: ["Node.js", "Python", "REST APIs"],
+    since: "2024"
+  },
   automation: {
     platform: "n8n",
     specialization: ["Workflow Design", "AI Agents", "Integration"],
     approach: "Cost-effective, rule-based solutions"
   },
   aiTools: ["ChatGPT", "Claude AI", "Google Gemini", "Perplexity"],
+  promptEngineering: "Certified Professional",
   integrations: ["WhatsApp API", "Google Sheets", "CRM Systems", "Payment Gateways"],
-  focus: "Building intelligent automation that replaces manual workflows"
+  focus: "Building intelligent automation and modern web apps"
 };
 ```
 
@@ -146,9 +162,9 @@ const expertise = {
 
 ## 🏆 Certifications
 
-- 🎓 **Jira Project Management** — Great Learning
+- 🎯 **AI Prompt Engineering & Productivity** — Certified Professional
 - 🤖 **AI Tools & ChatGPT Expert** — Be10x
-- 📝 **AI Prompt Engineering & Productivity** — Certified
+- 🎓 **Jira Project Management** — Great Learning
 - 👥 **Certified Customer Service Specialist (CSS)** — NSDC
 - 📊 **Customer Experience (CX) Foundations** — LinkedIn Learning
 - 🌐 **Fundamentals of Digital Marketing** — Google Digital Garage
@@ -191,9 +207,15 @@ I understand the pain points of manual project coordination because I've lived t
 
 ## 📈 Professional Timeline
 
-**2026 - Present:** AI Automation Engineer
-- Building intelligent automation workflows
+**2026 - Present:** AI Automation Engineer & Web Developer
+- Building intelligent automation workflows and modern web applications
 - Creating AI agents for hiring, support, and operations
+- Developing full-stack web solutions using React, Next.js, and Node.js
+
+**2024 - Present:** Web Development Journey
+- Started building modern web applications
+- Mastered React, Next.js, TypeScript, and Tailwind CSS
+- Creating responsive, user-friendly interfaces
 
 **May 2025 - Present:** Project Coordinator @ Growth99
 - Coordinating service delivery across multiple teams
@@ -234,9 +256,9 @@ I understand the pain points of manual project coordination because I've lived t
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-rayeesyousuf80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayeesyousuf80@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2070069%2082491-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917006982491)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayees-yousuf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayeesyousuf/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayeesYousufGenAi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RayeesYousufGenAi)
 
 </div>
 
