@@ -1,10 +1,10 @@
-# Hi there, I'm Rayees Yousuf 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Automation%20Engineer&fontSize=40&fontAlignY=35&desc=Building%20Intelligent%20Workflows%20%26%20Web%20Applications&descAlignY=55" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rayees%20Yousuf&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Engineer%20%7C%20Web%20Developer%20%7C%20Project%20Manager&descAlignY=55&descSize=20" width="100%">
 </div>
 
-### AI Automation Engineer | Web Developer | Project Manager
+# Hi there, I'm Rayees Yousuf 👋
+
+### Building Intelligent Workflows & Web Applications
 
 **Transforming 5+ years of project management & operations expertise into intelligent automation solutions**
 
