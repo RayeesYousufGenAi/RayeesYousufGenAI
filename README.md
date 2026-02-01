@@ -146,7 +146,7 @@ Beautiful travel website featuring Kashmir tour packages with booking functional
 **Premium print-on-demand e-commerce store**  
 🌐 **Live:** [eleveprints.com](https://eleveprints.com/)
 
-Professional e-commerce store built on Fourthwall platform showcasing no-code expertise.
+Professional e-commerce store built on Shopify platform showcasing no-code expertise.
 
 **Features:**
 - ✅ Complete e-commerce store setup and configuration
@@ -155,7 +155,7 @@ Professional e-commerce store built on Fourthwall platform showcasing no-code ex
 - ✅ Brand identity and visual design
 - ✅ Mobile-optimized shopping experience
 
-**Platform:** Fourthwall (No-Code)
+**Platform:** Shopify (No-Code)
 
 **Skills:** E-commerce Management, Brand Development, Product Curation, Business Strategy
 
