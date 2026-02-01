@@ -141,6 +141,25 @@ Beautiful travel website featuring Kashmir tour packages with booking functional
 
 ---
 
+### 🛒 [Eleve Prints](https://github.com/RayeesYousufGenAi/eleveprints-showcase)
+**Premium print-on-demand e-commerce store**  
+🌐 **Live:** [eleveprints.com](https://eleveprints.com/)
+
+Professional e-commerce store built on Fourthwall platform showcasing no-code expertise.
+
+**Features:**
+- ✅ Complete e-commerce store setup and configuration
+- ✅ Print-on-demand product catalog
+- ✅ Integrated payment and fulfillment systems
+- ✅ Brand identity and visual design
+- ✅ Mobile-optimized shopping experience
+
+**Platform:** Fourthwall (No-Code)
+
+**Skills:** E-commerce Management, Brand Development, Product Curation, Business Strategy
+
+---
+
 ## 🎯 Core Expertise
 
 ### AI Automation & Web Development
