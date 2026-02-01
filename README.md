@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FFFFFF&background=667EEA00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=250&lines=Hi+%F0%9F%91%8B+I'm+Rayees+Yousuf;AI+Automation+Engineer+%7C+Web+Developer;Building+Intelligent+Workflows;5%2B+Years+Project+Management+Experience" alt="Typing SVG" />
-</div>
-
-<div align="center" style="margin-top: -250px; position: relative; z-index: -1;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Rayees%20Yousuf&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20%7C%20Web%20Developer%20%7C%20Project%20Manager&descAlignY=55&descSize=20" width="100%">
 </div>
 
 
