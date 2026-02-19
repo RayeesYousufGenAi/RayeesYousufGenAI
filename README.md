@@ -18,7 +18,7 @@ I build AI-powered automation workflows and web applications that eliminate repe
 ## 🚀 About Me
 
 - 🔭 **Currently:** Building AI automation agents, web applications, and 3D interactive websites
-- 💼 **Background:** 5+ years as Project Manager/Coordinator at Growth99 & K2Logix
+- 💼 **Background:** 5+ years as Project Manager/Coordinato
 - 💻 **Web Development:** Building modern web applications since 2024 using full-stack technologies
 - 🎨 **3D Development:** Creating immersive 3D websites with Three.js and WebGL
 - 🛒 **Ecommerce Expertise:** Creating Shopify stores, payment gateway API integration (Razorpay, Stripe, PayPal)
