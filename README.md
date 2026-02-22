@@ -1,37 +1,135 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&background=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B+I'm+Rayees+Yousuf;AI+Automation+Engineer;Web+Developer+%7C+Project+Manager;Building+Intelligent+Workflows" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1208,60:C9A96E,100:0d1117&height=240&section=header&text=Rayees%20Yousuf&fontSize=62&fontColor=E8D5B0&fontAlignY=40&desc=Shopify%20Theme%20Developer%20%E2%80%A2%20AI%20Automation%20Engineer%20%E2%80%A2%20Web%20Developer&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+
 </div>
 
+<div align="center">
 
-# Hi there, I'm Rayees Yousuf 👋
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3500&pause=1200&color=C9A96E&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=Shopify+Theme+Developer+%7C+OS+2.0+%7C+Liquid+%7C+Vanilla+JS;AI+Automation+Engineer+%7C+n8n+%7C+Intelligent+Workflows;Web+Developer+%7C+Three.js+%7C+3D+Experiences;Project+Manager+%7C+5%2B+Years+Operations" alt="Typing SVG" />
 
-### Building Intelligent Workflows & Web Applications
+</div>
 
-**Transforming 5+ years of project management & operations expertise into intelligent automation solutions**
+<br/>
 
-I build AI-powered automation workflows and web applications that eliminate repetitive tasks and streamline business operations using **n8n**, **AI agents**, **web development**, and **no-code platforms**.
+<div align="center">
 
-📧 rayeesyousuf80@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rayeesyousuf/)
+[![Email](https://img.shields.io/badge/✦%20rayeesyousuf80%40gmail.com-1a1208?style=for-the-badge&logo=gmail&logoColor=C9A96E)](mailto:rayeesyousuf80@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/✦%20LinkedIn-1a1208?style=for-the-badge&logo=linkedin&logoColor=C9A96E)](https://www.linkedin.com/in/rayeesyousuf/)&nbsp;
+[![GitHub](https://img.shields.io/badge/✦%20GitHub-1a1208?style=for-the-badge&logo=github&logoColor=C9A96E)](https://github.com/RayeesYousufGenAi)&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=RayeesYousufGenAi&color=C9A96E&style=for-the-badge&label=✦+Visitors)](https://github.com/RayeesYousufGenAi)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✦  Shopify Theme Developer  ·  AI Automation Engineer  ✦
+       Web Developer  ·  Project Manager  ·  Srinagar, J&K 🇮🇳
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🔭 **Currently:** Building AI automation agents, web applications, and 3D interactive websites
-- 💼 **Background:** 5+ years as Project Manager/Coordinato
-- 💻 **Web Development:** Building modern web applications since 2024 using full-stack technologies
-- 🎨 **3D Development:** Creating immersive 3D websites with Three.js and WebGL
-- 🛒 **Ecommerce Expertise:** Creating Shopify stores, payment gateway API integration (Razorpay, Stripe, PayPal)
-- 🌱 **Specializing in:** n8n workflow automation, WhatsApp integrations, Shopify development, 3D web experiences
-- 💡 **Mission:** Creating cost-effective automation solutions and cutting-edge web experiences
-- 🎯 **Focus:** Bridging project management expertise with AI automation and modern web development
+## ✦ Hi there, I'm Rayees Yousuf 👋
 
+</div>
+
+### `Shopify Theme Developer  ·  AI Automation Engineer  ·  Web Developer`
+
+**Engineering premium Shopify themes from scratch and transforming 5+ years of project management expertise into intelligent automation solutions**
+
+I build **custom Shopify OS 2.0 themes** with 75+ hand-coded sections, **AI-powered automation workflows**, and modern web applications that eliminate repetitive tasks and streamline business operations using **Liquid**, **n8n**, **AI agents**, and **no-code platforms**.
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### AI & Automation
+## ✦ About Me
+
+</div>
+
+- 🎨 &nbsp;**Shopify Theme Dev** &nbsp;·&nbsp; Engineering premium custom OS 2.0 themes from scratch — Liquid, vanilla JS, CSS, 75+ sections, AJAX cart, animations, complete settings systems
+- 🔭 &nbsp;**Currently** &nbsp;·&nbsp; Building custom Shopify themes, AI automation agents, web apps, and 3D interactive websites
+- 💼 &nbsp;**Background** &nbsp;·&nbsp; 6+ years as Project Manager / Coordinator&Operations
+- 💻 &nbsp;**Web Development** &nbsp;·&nbsp; Building modern web applications since 2024 using full-stack technologies
+- 🌐 &nbsp;**3D Development** &nbsp;·&nbsp; Creating immersive 3D websites with Three.js and WebGL
+- 🛒 &nbsp;**Ecommerce Expertise** &nbsp;·&nbsp; Custom Shopify themes & stores, payment gateway API integration (Razorpay, Stripe, PayPal)
+- 🌱 &nbsp;**Specializing in** &nbsp;·&nbsp; Shopify theme development, n8n workflow automation, WhatsApp integrations, 3D web experiences
+- 💡 &nbsp;**Mission** &nbsp;·&nbsp; Creating cost-effective automation solutions and cutting-edge web experiences
+- 🎯 &nbsp;**Focus** &nbsp;·&nbsp; Bridging project management expertise with Shopify development, AI automation, and modern web
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Shopify Theme Development
+
+*Engineering premium Shopify themes completely from scratch —*
+*every section, every setting, every line of Liquid and JavaScript written by hand.*
+
+</div>
+
+<br/>
+
+**What I build into every theme:**
+
+| &nbsp;&nbsp;Capability | Details |
+|:---|:---|
+| ⬡ &nbsp;**OS 2.0 Native** | JSON templates, App Blocks, Section Everywhere — full Customizer support |
+| ⬡ &nbsp;**75+ Custom Sections** | Hero, collections, products, content, media, interactive, social proof, utility |
+| ⬡ &nbsp;**Zero JS Dependencies** | 100% vanilla ES6+ — Custom Elements, IntersectionObserver, Fetch API |
+| ⬡ &nbsp;**Animation Engine** | Scroll reveals, parallax, character-reveal text, magnetic hover, 3D tilt |
+| ⬡ &nbsp;**AJAX Cart Drawer** | Free-shipping bar, upsell block, order notes — zero page reload |
+| ⬡ &nbsp;**Performance** | Lazy loading, `srcset` images, deferred scripts, no render-blocking |
+| ⬡ &nbsp;**Accessibility** | WCAG 2.1 AA — ARIA, keyboard nav, focus management, `prefers-reduced-motion` |
+| ⬡ &nbsp;**Mobile-First** | Every section responsive + optional fixed mobile bottom nav bar |
+
+<br/>
+
+**Custom Shopify Services:**
+
+```
+  🎨  Full theme from scratch  ·  OS 2.0 Liquid + Vanilla JS + CSS + JSON Templates
+  🔧  Theme customization  ·  New sections, features, layout changes
+  🛒  End-to-end store setup and configuration
+  💳  Payment gateway integration  ·  Razorpay · Stripe · PayPal · Paytm · PhonePe · GPay
+  ⚡  Performance optimization & Core Web Vitals
+  ♿  WCAG 2.1 AA accessibility implementation
+  📖  Full technical documentation for every project
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Tech Stack
+
+</div>
+
+<br/>
+
+#### 🎨 &nbsp;Shopify Theme Engineering
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify OS 2.0](https://img.shields.io/badge/OS%202.0%20Native-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Partner](https://img.shields.io/badge/Shopify%20Partner-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify CLI](https://img.shields.io/badge/Shopify%20CLI-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+
+#### 🤖 &nbsp;AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
@@ -44,10 +142,10 @@ I build AI-powered automation workflows and web applications that eliminate repe
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
 ![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6F00?style=for-the-badge&logo=stablediffusion&logoColor=white)
-![Runway](https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=runway&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6F00?style=for-the-badge)
+![Runway](https://img.shields.io/badge/Runway-000000?style=for-the-badge)
 
-### Project Management & Collaboration
+#### 📊 &nbsp;Project Management & Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
@@ -55,7 +153,7 @@ I build AI-powered automation workflows and web applications that eliminate repe
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-### Ecommerce & CMS
+#### 🛒 &nbsp;Ecommerce & CMS
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
@@ -64,7 +162,7 @@ I build AI-powered automation workflows and web applications that eliminate repe
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 
-### Payment Gateways
+#### 💳 &nbsp;Payment Gateways
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
@@ -72,418 +170,449 @@ I build AI-powered automation workflows and web applications that eliminate repe
 ![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white)
 ![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
 
-### Print-on-Demand Platforms
+#### 📦 &nbsp;Print-on-Demand Platforms
 ![Printful](https://img.shields.io/badge/Printful-E25041?style=for-the-badge&logo=printful&logoColor=white)
 ![Printify](https://img.shields.io/badge/Printify-39B54A?style=for-the-badge&logo=printify&logoColor=white)
-![Gelato](https://img.shields.io/badge/Gelato-000000?style=for-the-badge&logo=gelato&logoColor=white)
-![Fourthwall](https://img.shields.io/badge/Fourthwall-FF4D4D?style=for-the-badge&logo=fourthwall&logoColor=white)
-![Teespring](https://img.shields.io/badge/Teespring-39ACE6?style=for-the-badge&logo=teespring&logoColor=white)
-![Redbubble](https://img.shields.io/badge/Redbubble-E41321?style=for-the-badge&logo=redbubble&logoColor=white)
-![SPOD](https://img.shields.io/badge/SPOD-FF6B35?style=for-the-badge&logo=spod&logoColor=white)
-![CustomCat](https://img.shields.io/badge/CustomCat-4A90E2?style=for-the-badge&logo=customcat&logoColor=white)
-![Gooten](https://img.shields.io/badge/Gooten-00C4CC?style=for-the-badge&logo=gooten&logoColor=white)
-![Merchify](https://img.shields.io/badge/Merchify-6C5CE7?style=for-the-badge&logo=merchify&logoColor=white)
-![Lulu](https://img.shields.io/badge/Lulu-E94B3C?style=for-the-badge&logo=lulu&logoColor=white)
+![Gelato](https://img.shields.io/badge/Gelato-000000?style=for-the-badge)
+![Fourthwall](https://img.shields.io/badge/Fourthwall-FF4D4D?style=for-the-badge)
+![Teespring](https://img.shields.io/badge/Teespring-39ACE6?style=for-the-badge)
+![Redbubble](https://img.shields.io/badge/Redbubble-E41321?style=for-the-badge)
+![SPOD](https://img.shields.io/badge/SPOD-FF6B35?style=for-the-badge)
+![CustomCat](https://img.shields.io/badge/CustomCat-4A90E2?style=for-the-badge)
+![Gooten](https://img.shields.io/badge/Gooten-00C4CC?style=for-the-badge)
+![Merchify](https://img.shields.io/badge/Merchify-6C5CE7?style=for-the-badge)
+![Lulu](https://img.shields.io/badge/Lulu-E94B3C?style=for-the-badge)
 
-### AI Coding Assistants
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Emergent](https://img.shields.io/badge/Emergent-FF6B6B?style=for-the-badge&logo=emergent&logoColor=white)
-![Vibe](https://img.shields.io/badge/Vibe-7C3AED?style=for-the-badge&logo=vibe&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+#### 🧠 &nbsp;AI Coding Assistants
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
-![Tabnine](https://img.shields.io/badge/Tabnine-5B4FE9?style=for-the-badge&logo=tabnine&logoColor=white)
+![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge)
+![Tabnine](https://img.shields.io/badge/Tabnine-5B4FE9?style=for-the-badge)
 ![Replit AI](https://img.shields.io/badge/Replit%20AI-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
-### Analytics & SEO
+#### 📈 &nbsp;Analytics & SEO
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Tag%20Manager-246FDB?style=for-the-badge&logo=google&logoColor=white)
 
-### Web Development & Frontend
+#### 💻 &nbsp;Web Development & Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 3D & Graphics
+#### 🎲 &nbsp;3D & Graphics
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
-### Backend & APIs
+#### ⚙️ &nbsp;Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases & Integration
+#### 🗄️ &nbsp;Databases & Integration
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho-C8202D?style=for-the-badge&logo=zoho&logoColor=white)
 
+<br/>
+
 ---
 
-## 📌 Featured Projects
+<div align="center">
 
-### 🤖 [WhatsApp Hiring Assistant](https://github.com/RayeesYousufGenAi/whatsapp-hiring-assistant)
-**Intelligent WhatsApp bot for automated candidate screening and job matching**
+## ✦ Featured Projects
+
+</div>
+
+<br/>
+
+### 🎨 &nbsp;Shopify Theme Development
+> **Premium custom Shopify OS 2.0 themes — engineered from scratch**
+
+I design and build complete Shopify themes with hand-coded Liquid sections, vanilla JS, and full Customizer settings systems.
+
+- ✦ &nbsp;75+ drag-and-drop sections (hero, collections, products, media, interactive, marquees, countdowns, popups, lookbooks)
+- ✦ &nbsp;AJAX cart drawer with free-shipping bar and upsell blocks
+- ✦ &nbsp;Full animation system — scroll reveals, parallax, 3D tilt, character-reveal, magnetic hover
+- ✦ &nbsp;Shoppable lookbooks and hotspot sections
+- ✦ &nbsp;Complete theme settings — typography, colors, layout, cart, animations, social media
+- ✦ &nbsp;WCAG 2.1 AA accessibility foundations
+- ✦ &nbsp;Zero JS dependencies — pure vanilla ES6+
+- ✦ &nbsp;Delivered to the Shopify Theme Store
+
+`Shopify Liquid` &nbsp;`Vanilla JS (ES6+)` &nbsp;`CSS Custom Properties` &nbsp;`Shopify OS 2.0` &nbsp;`JSON Templates`
+
+<br/>
+
+---
+
+### 🤖 &nbsp;[WhatsApp Hiring Assistant](https://github.com/RayeesYousufGenAi/whatsapp-hiring-assistant)
+> **Intelligent WhatsApp bot for automated candidate screening and job matching**
 
 Built for Catalyst Hiring Solutions to automate the entire candidate screening workflow.
 
-**Features:**
-- ✅ Rule-based AI classification (NO paid APIs)
-- ✅ Automatic work preference detection (WFH/WFO)
-- ✅ Job keyword matching and routing
-- ✅ Google Sheets integration for candidate database
-- ✅ Automated job details delivery
-- ✅ Clarifying questions for unclear inputs
+- ✦ &nbsp;Rule-based AI classification — NO paid APIs
+- ✦ &nbsp;Automatic work preference detection (WFH/WFO)
+- ✦ &nbsp;Job keyword matching and routing
+- ✦ &nbsp;Google Sheets integration for candidate database
+- ✦ &nbsp;Automated job details delivery + clarifying questions for unclear inputs
 
-**Tech Stack:** n8n, WhatsApp Business API, Google Sheets, JavaScript, Rule-Based Logic
+`n8n` &nbsp;`WhatsApp Business API` &nbsp;`Google Sheets` &nbsp;`JavaScript` &nbsp;`Rule-Based Logic`
 
-**Impact:** Eliminates manual screening, saves hours daily, zero API costs
+**Impact:** Eliminates manual screening · Saves hours daily · Zero API costs
 
----
-
-### 💼 [Catalyst Hiring Solutions](https://github.com/RayeesYousufGenAi/catalyst-hiring-solutions)
-**Professional recruitment and talent acquisition platform**  
-🌐 **Live:** [catalysthiringsolutions.in](http://catalysthiringsolutions.in/)
-
-Modern, responsive recruitment website showcasing comprehensive hiring services.
-
-**Features:**
-- ✅ Executive search, volume hiring, tech recruitment services
-- ✅ Fully responsive design (mobile, tablet, desktop)
-- ✅ SEO optimized with meta tags and semantic HTML
-- ✅ Contact forms and service showcase
-- ✅ Professional UI/UX with smooth animations
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
-
-**Topics:** `recruitment` `hiring-platform` `talent-acquisition` `html-css-javascript` `responsive-website`
+<br/>
 
 ---
 
-### 🏔️ [Akta Shaf Kashmir Tours](https://github.com/RayeesYousufGenAi/aktashaf-kashmir-tours)
-**Kashmir tour packages and travel booking platform**  
-🌐 **Live:** [aktashafkashmir.com](https://aktashafkashmir.com/)
+### 💼 &nbsp;[Catalyst Hiring Solutions](https://github.com/RayeesYousufGenAi/catalyst-hiring-solutions)
+> **Professional recruitment and talent acquisition platform** &nbsp;·&nbsp; 🌐 [catalysthiringsolutions.in](http://catalysthiringsolutions.in/)
 
-Beautiful travel website featuring Kashmir tour packages with booking functionality.
+- ✦ &nbsp;Executive search, volume hiring, tech recruitment services
+- ✦ &nbsp;Fully responsive design — mobile, tablet, desktop
+- ✦ &nbsp;SEO optimized with meta tags and semantic HTML
+- ✦ &nbsp;Contact forms and service showcase with smooth animations
 
-**Features:**
-- ✅ Multiple tour packages (Adventure, Sonamarg, Gulmarg, Gurez Valley)
-- ✅ 20+ travel blogs with SEO optimization
-- ✅ Responsive design with mobile-first approach
-- ✅ Contact forms and WhatsApp integration
-- ✅ Sitemap, robots.txt, and PWA support
+`HTML5` &nbsp;`CSS3` &nbsp;`JavaScript` &nbsp;`Responsive Design`
 
-**Tech Stack:** HTML5, CSS3, JavaScript, SEO, PWA
-
-**Topics:** `kashmir-tours` `travel-website` `tour-packages` `tourism` `responsive-website`
+<br/>
 
 ---
 
-### 🛒 [Eleve Prints](https://github.com/RayeesYousufGenAi/eleveprints-showcase)
-**Premium print-on-demand e-commerce store**  
-🌐 **Live:** [eleveprints.com](https://eleveprints.com/)
+### 🏔️ &nbsp;[Akta Shaf Kashmir Tours](https://github.com/RayeesYousufGenAi/aktashaf-kashmir-tours)
+> **Kashmir tour packages and travel booking platform** &nbsp;·&nbsp; 🌐 [aktashafkashmir.com](https://aktashafkashmir.com/)
 
-Professional e-commerce store built on Shopify platform showcasing no-code expertise.
+- ✦ &nbsp;Multiple tour packages — Adventure, Sonamarg, Gulmarg, Gurez Valley
+- ✦ &nbsp;20+ travel blogs with SEO optimization
+- ✦ &nbsp;Contact forms, WhatsApp integration, sitemap, robots.txt, PWA support
 
-**Features:**
-- ✅ Complete e-commerce store setup and configuration
-- ✅ Print-on-demand product catalog
-- ✅ Integrated payment and fulfillment systems
-- ✅ Brand identity and visual design
-- ✅ Mobile-optimized shopping experience
+`HTML5` &nbsp;`CSS3` &nbsp;`JavaScript` &nbsp;`SEO` &nbsp;`PWA`
 
-**Platform:** Shopify (No-Code)
-
-**Skills:** E-commerce Management, Brand Development, Product Curation, Business Strategy
+<br/>
 
 ---
 
-## 🤖 Automation Projects Portfolio
+### 🛒 &nbsp;[Eleve Prints](https://github.com/RayeesYousufGenAi/eleveprints-showcase)
+> **Premium print-on-demand e-commerce store** &nbsp;·&nbsp; 🌐 [eleveprints.com](https://eleveprints.com/)
 
-**AI-Powered Workflow Automation with n8n | Free API Integrations**
+- ✦ &nbsp;Complete e-commerce store setup and configuration
+- ✦ &nbsp;Print-on-demand product catalog with integrated payment and fulfillment
+- ✦ &nbsp;Brand identity, visual design, mobile-optimized shopping experience
 
-### 🚀 [Automated Client Onboarding System](https://github.com/RayeesYousufGenAi/client-onboarding-automation)
-**Streamline client onboarding with intelligent automation**
+`Shopify` &nbsp;`E-commerce` &nbsp;`Brand Development` &nbsp;`Business Strategy`
 
-Comprehensive n8n workflow that automates the entire client onboarding process from signup to activation.
-
-**Features:**
-- ✅ AI-personalized welcome emails using Gemini API
-- ✅ Automated document collection via Google Drive
-- ✅ Task creation in ClickUp/Asana
-- ✅ Progress tracking dashboard
-- ✅ Team notifications via Slack
-
-**Tech Stack:** n8n, Gemini API, Gmail, Google Drive, ClickUp
-
-**Use Case:** Agencies, SaaS companies, service providers
+<br/>
 
 ---
 
-### 📊 [Project Status Report Generator](https://github.com/RayeesYousufGenAi/project-status-reports)
-**AI-powered automated project reporting**
+<div align="center">
 
-Automatically generates and distributes intelligent project status reports from PM tools.
+## ✦ Automation Projects Portfolio
 
-**Features:**
-- ✅ Multi-platform integration (JIRA, ClickUp, Asana)
-- ✅ AI-generated summaries with Gemini
-- ✅ Automated email/Slack distribution
-- ✅ Custom report templates
-- ✅ Weekly/daily scheduling
+*AI-Powered Workflow Automation with n8n &nbsp;·&nbsp; Free API Integrations*
 
-**Tech Stack:** n8n, Gemini API, JIRA/ClickUp, Slack
+</div>
 
-**Use Case:** Project coordinators, PMO teams, operations managers
+<br/>
 
----
+### 🚀 &nbsp;[Automated Client Onboarding System](https://github.com/RayeesYousufGenAi/client-onboarding-automation)
+- ✦ &nbsp;AI-personalized welcome emails via Gemini API
+- ✦ &nbsp;Automated document collection · Task creation in ClickUp/Asana · Slack notifications
 
-### ⚡ [SLA Monitoring & Alert System](https://github.com/RayeesYousufGenAi/sla-monitoring-system)
-**Real-time SLA tracking with intelligent alerts**
-
-Monitors ticket SLAs and sends proactive breach prevention alerts with AI-powered escalation.
-
-**Features:**
-- ✅ Real-time SLA tracking
-- ✅ Multi-level breach alerts (50%, 75%, 90%)
-- ✅ AI-powered escalation suggestions
-- ✅ Multi-channel notifications
-- ✅ SLA compliance reporting
-
-**Tech Stack:** n8n, Gemini API, Zendesk/Zoho Desk, Slack
-
-**Use Case:** Service delivery teams, support operations, client success
+`n8n` &nbsp;`Gemini API` &nbsp;`Gmail` &nbsp;`Google Drive` &nbsp;`ClickUp`
 
 ---
 
-### 🎫 [Ticket Routing & Escalation Automation](https://github.com/RayeesYousufGenAi/ticket-routing-automation)
-**Intelligently route tickets with AI classification**
+### 📊 &nbsp;[Project Status Report Generator](https://github.com/RayeesYousufGenAi/project-status-reports)
+- ✦ &nbsp;Multi-platform integration — JIRA, ClickUp, Asana
+- ✦ &nbsp;AI-generated summaries with Gemini · Weekly/daily auto-distribution
 
-AI-powered ticket routing system that categorizes, prioritizes, and assigns tickets automatically.
-
-**Features:**
-- ✅ AI-powered ticket categorization (Gemini/Hugging Face)
-- ✅ Skill-based assignment
-- ✅ Workload balancing
-- ✅ Auto-escalation workflows
-- ✅ Priority-based routing
-
-**Tech Stack:** n8n, Gemini, Hugging Face, Zendesk/Freshdesk
-
-**Use Case:** Support teams, operations coordinators, help desk managers
+`n8n` &nbsp;`Gemini API` &nbsp;`JIRA/ClickUp` &nbsp;`Slack`
 
 ---
 
-### 🎙️ [Automated Meeting Notes & Action Items](https://github.com/RayeesYousufGenAi/meeting-notes-automation)
-**Convert meetings to notes and tasks automatically**
+### ⚡ &nbsp;[SLA Monitoring & Alert System](https://github.com/RayeesYousufGenAi/sla-monitoring-system)
+- ✦ &nbsp;Real-time SLA tracking · Multi-level breach alerts at 50% / 75% / 90%
+- ✦ &nbsp;AI-powered escalation suggestions
 
-Transcribes meetings, generates AI summaries, extracts action items, and creates tasks.
-
-**Features:**
-- ✅ Auto-transcription (AssemblyAI/Deepgram)
-- ✅ AI-powered summarization with Gemini
-- ✅ Action item extraction
-- ✅ Automatic task creation in PM tools
-- ✅ Follow-up email distribution
-
-**Tech Stack:** n8n, AssemblyAI, Gemini API, ClickUp/Asana
-
-**Use Case:** Project managers, remote teams, operations managers
+`n8n` &nbsp;`Gemini API` &nbsp;`Zendesk/Zoho Desk` &nbsp;`Slack`
 
 ---
 
-### 🛒 [E-commerce Order Fulfillment Automation](https://github.com/RayeesYousufGenAi/ecommerce-fulfillment-automation)
-**Complete order processing automation**
+### 🎫 &nbsp;[Ticket Routing & Escalation Automation](https://github.com/RayeesYousufGenAi/ticket-routing-automation)
+- ✦ &nbsp;AI ticket categorization · Skill-based assignment · Workload balancing
 
-Automates order processing, inventory updates, vendor notifications, and customer communications.
-
-**Features:**
-- ✅ Order notifications from Shopify/WooCommerce
-- ✅ Inventory management
-- ✅ Vendor notifications (dropshipping)
-- ✅ AI-personalized customer emails
-- ✅ Tracking number updates
-
-**Tech Stack:** n8n, Shopify/WooCommerce API, Gemini API, SendGrid
-
-**Use Case:** E-commerce operations, Shopify coordinators, fulfillment teams
+`n8n` &nbsp;`Gemini` &nbsp;`Hugging Face` &nbsp;`Zendesk/Freshdesk`
 
 ---
 
-**🆓 All automation projects use FREE tier APIs** (Gemini, OpenRouter, Hugging Face, Gmail, Google Sheets, ClickUp, Slack)
+### 🎙️ &nbsp;[Automated Meeting Notes & Action Items](https://github.com/RayeesYousufGenAi/meeting-notes-automation)
+- ✦ &nbsp;Auto-transcription · AI summary · Action item extraction · Task creation
+
+`n8n` &nbsp;`AssemblyAI` &nbsp;`Gemini API` &nbsp;`ClickUp/Asana`
 
 ---
 
-## 🎯 Core Expertise
+### 🛒 &nbsp;[E-commerce Order Fulfillment Automation](https://github.com/RayeesYousufGenAi/ecommerce-fulfillment-automation)
+- ✦ &nbsp;Order processing · Inventory updates · Vendor notifications · AI customer emails
 
-### AI Automation & Web Development
+`n8n` &nbsp;`Shopify/WooCommerce API` &nbsp;`Gemini API` &nbsp;`SendGrid`
+
+<br/>
+
+<div align="center">
+
+`🆓 All automation projects run on FREE tier APIs — Gemini · Hugging Face · Gmail · Google Sheets · ClickUp · Slack`
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Core Expertise
+
+</div>
+
+<br/>
+
 ```javascript
 const expertise = {
+  shopifyThemes: {
+    spec       : "Shopify OS 2.0 — Liquid, JSON templates, App Blocks",
+    sections   : "75+ custom sections built from scratch",
+    javascript : "100% vanilla ES6+ — no jQuery, no frameworks, no build tools",
+    features   : ["AJAX cart drawer", "Full animation engine", "Predictive search",
+                  "Shoppable lookbooks", "Mobile bottom nav", "Countdown timers",
+                  "Parallax + 3D tilt", "Character-reveal text", "Marquees"],
+    services   : ["Theme from scratch", "Custom sections", "Store setup",
+                  "Payment integration", "Performance", "Accessibility", "Docs"]
+  },
   webDevelopment: {
-    frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "REST APIs"],
-    threeDGraphics: ["Three.js", "WebGL"],
-    since: "2024"
+    frontend   : ["HTML5", "CSS3", "JavaScript", "TypeScript", "Tailwind CSS"],
+    backend    : ["Node.js", "REST APIs"],
+    threeD     : ["Three.js", "WebGL"],
+    since      : "2024"
   },
   automation: {
-    platform: "n8n",
-    specialization: ["Workflow Design", "AI Agents", "Integration"],
-    approach: "Cost-effective, rule-based solutions"
+    platform       : "n8n",
+    specialization : ["Workflow Design", "AI Agents", "WhatsApp Bots"],
+    approach       : "Cost-effective — free-tier APIs only"
   },
   ecommerce: {
-    platforms: ["Shopify", "WooCommerce", "Wix", "Squarespace", "Webflow", "Magento"],
-    payments: ["Razorpay", "Stripe", "PayPal", "Paytm", "PhonePe", "Google Pay"]
+    platforms : ["Shopify", "WooCommerce", "Wix", "Squarespace", "Webflow", "Magento"],
+    payments  : ["Razorpay", "Stripe", "PayPal", "Paytm", "PhonePe", "Google Pay"]
   },
-  aiTools: ["ChatGPT", "Claude AI", "Google Gemini", "Perplexity"],
-  promptEngineering: "Certified Professional",
-  integrations: ["WhatsApp API", "Google Sheets", "CRM Systems", "Payment Gateways"],
-  focus: "Building intelligent automation, 3D web experiences, and modern apps"
+  aiTools           : ["ChatGPT", "Claude AI", "Google Gemini", "Perplexity"],
+  promptEngineering : "Certified Professional",
+  integrations      : ["WhatsApp API", "Google Sheets", "CRM Systems", "Payment Gateways"]
 };
 ```
 
-### Project & Operations Management
-- 📊 **Project Coordination** - 5+ years managing digital service delivery
-- 🎫 **Ticket Management** - Zoho Desk, Zendesk, Intercom, SLA tracking
-- 👥 **Cross-Functional Teams** - Dev, SEO, Design, QA, Infrastructure
-- 📝 **SOP Development** - Workflow standardization and documentation
-- 🔄 **Process Optimization** - Streamlining operations and reducing bottlenecks
+<br/>
 
-### Ecommerce & Digital Operations
-- 🛒 **Shopify Store Creation** - End-to-end store setup, theme customization, product configuration
-- 💳 **Payment Gateway Integration** - Expert in Razorpay, Stripe, PayPal API integration
-- 📦 **Shopify Admin** - Product management, orders, inventory, collections, apps
-- 🌐 **WordPress & WooCommerce** - Site management, maintenance, ecommerce setup
-- 📈 **SEO & Analytics** - GA4, Search Console, Tag Manager, conversion tracking
-- 🚀 **Launch Coordination** - UAT, QA, go-live, post-launch support
+#### 📊 &nbsp;Project & Operations Management
 
----
+- ✦ &nbsp;**Project Coordination** &nbsp;—&nbsp; 5+ years managing digital service delivery
+- ✦ &nbsp;**Ticket Management** &nbsp;—&nbsp; Zoho Desk, Zendesk, Intercom, SLA tracking
+- ✦ &nbsp;**Cross-Functional Teams** &nbsp;—&nbsp; Dev, SEO, Design, QA, Infrastructure
+- ✦ &nbsp;**SOP Development** &nbsp;—&nbsp; Workflow standardization and documentation
+- ✦ &nbsp;**Process Optimization** &nbsp;—&nbsp; Streamlining operations and reducing bottlenecks
 
-## 💡 What I Bring to the Table
+#### 🛒 &nbsp;Ecommerce & Digital Operations
 
-### Unique Combination
-**Project Management Experience + AI Automation Skills = Powerful Solutions**
+- ✦ &nbsp;**Shopify Theme Development** &nbsp;—&nbsp; Custom OS 2.0 themes with 75+ sections, from architecture to Theme Store delivery
+- ✦ &nbsp;**Shopify Store Setup** &nbsp;—&nbsp; End-to-end configuration, theme customization, product setup
+- ✦ &nbsp;**Payment Gateway Integration** &nbsp;—&nbsp; Razorpay, Stripe, PayPal API integration
+- ✦ &nbsp;**WordPress & WooCommerce** &nbsp;—&nbsp; Site management, maintenance, ecommerce setup
+- ✦ &nbsp;**SEO & Analytics** &nbsp;—&nbsp; GA4, Search Console, Tag Manager, conversion tracking
+- ✦ &nbsp;**Launch Coordination** &nbsp;—&nbsp; UAT, QA, go-live, post-launch support
 
-I understand the pain points of manual project coordination because I've lived them for 5+ years. Now I'm building AI agents that solve these exact problems.
-
-### Real-World Problem Solving
-- ✅ Automated candidate screening (WhatsApp Hiring Assistant)
-- ✅ Workflow automation for repetitive tasks
-- ✅ Integration of multiple tools and platforms
-- ✅ Cost-effective solutions (no expensive AI APIs)
-- ✅ Scalable, maintainable architectures
-
-### Technical + Business Mindset
-- 🎯 Understand business requirements from PM perspective
-- 🔧 Build technical solutions with automation tools
-- 📊 Track metrics and optimize for efficiency
-- 📝 Document processes and create SOPs
-- 🤝 Communicate effectively with stakeholders
-
----
-
-## 🌟 Current Focus
-
-- 🤖 Building AI automation agents for business workflows
-- 📱 WhatsApp integration and chatbot development
-- 🔄 Creating reusable n8n workflow templates
-- 💰 Developing cost-effective alternatives to paid AI services
-- 📚 Sharing knowledge through open-source projects
-- 🎓 Continuous learning in AI and automation
-
----
-
-## 📈 Professional Timeline
-
-**2026 - Present:** AI Automation Engineer & Web Developer
-- Building intelligent automation workflows and modern web applications
-- Creating AI agents for hiring, support, and operations
-- Developing full-stack web solutions using modern technologies
-- Creating immersive 3D websites with Three.js and WebGL
-
-**2024 - Present:** Web Development Journey
-- Started building modern web applications
-- Mastered HTML5, CSS3, JavaScript, TypeScript, and Tailwind CSS
-- Creating responsive, user-friendly interfaces
-- Developing 3D interactive web experiences
-
-**May 2025 - Present:** Project Coordinator @ Growth99
-- Coordinating service delivery across multiple teams
-- Managing SLA compliance and client workflows
-
-**Mar 2021 - Apr 2025:** Project Coordinator @ K2Logix
-- Managed 100+ Shopify and WordPress projects
-- Streamlined operations through SOP standardization
-
----
-
-## 🛠️ Tools I Work With Daily
-
-**Project Management:** Jira • ClickUp • Asana • Monday.com • Notion • Trello • Basecamp • Smartsheet
-
-**Automation:** n8n • Make (Integromat) • Zapier
-
-**AI Tools:** ChatGPT • OpenAI • Claude • Anthropic • Google Gemini • Perplexity • Hugging Face • Midjourney • DALL·E • Stable Diffusion • Runway • Gamma.app
-
-**Communication:** Slack • Microsoft Teams • Zoom • Google Meet • Loom
-
-**Analytics:** Google Analytics (GA4) • Search Console • Tag Manager
-
-**Platforms:** Shopify • WordPress • WooCommerce • Wix • Squarespace • Webflow • Magento
-
-**Hosting:** Hostinger • GoDaddy • Namecheap • Cloudflare
-
----
-
-## 🌍 Languages
-
-🇬🇧 English | 🇮🇳 Hindi | 🇵🇰 Urdu | Kashmiri
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-rayeesyousuf80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayeesyousuf80@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayeesyousuf/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayeesYousufGenAi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RayeesYousufGenAi)
-
-</div>
-
----
-
-## 💭 Philosophy
-
-> **"The best automation is the one that solves real problems without breaking the bank."**
-
-I believe in:
-- 🎯 **Practical solutions** over complex architectures
-- 💰 **Cost-effectiveness** over expensive tools
-- 📚 **Knowledge sharing** over gatekeeping
-- 🔄 **Continuous improvement** over perfection
-- 🤝 **Collaboration** over competition
-
----
-
-## 📊 Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=RayeesYousufGenAi&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/RayeesYousufGenAi?style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/RayeesYousufGenAi?style=for-the-badge&color=yellow)
+<br/>
 
 ---
 
 <div align="center">
 
-### ⭐ Star my repositories if you find them useful!
-
-**"From managing workflows to automating them — one intelligent agent at a time"** 🚀
+## ✦ What I Bring to the Table
 
 </div>
+
+<br/>
+
+> **A rare combination: deep project management experience + hands-on technical building**
+>
+> I understand the pain points of running digital operations because I've lived them for 5+ years. Now I'm building the tools — themes, automations, and apps — that solve those exact problems.
+
+- ✦ &nbsp;Custom Shopify themes engineered from scratch to Shopify Theme Store
+- ✦ &nbsp;Automated workflows that eliminate hours of manual work
+- ✦ &nbsp;Cost-effective solutions with zero unnecessary dependencies
+- ✦ &nbsp;PM mindset applied to every build — scope, timeline, documentation first
+- ✦ &nbsp;Scalable, maintainable, fully documented deliverables
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Current Focus
+
+</div>
+
+<br/>
+
+- 🎨 &nbsp;Engineering new premium Shopify themes for the Shopify Theme Store
+- 🔧 &nbsp;Custom Shopify theme builds and store setups for clients
+- 🤖 &nbsp;Building AI automation agents for business workflows
+- 📱 &nbsp;WhatsApp integration and chatbot development
+- 🔄 &nbsp;Creating reusable n8n workflow templates
+- 🎓 &nbsp;Continuous learning in AI, automation, and Shopify development
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Professional Timeline
+
+</div>
+
+<br/>
+
+```
+  2026 → Present   Shopify Theme Developer & AI Automation Engineer
+  ─────────────    ├─ Engineering premium custom Shopify OS 2.0 themes from scratch
+                   ├─ Building 75+ section libraries · Delivering to the Shopify Theme Store
+                   ├─ Creating AI agents for hiring, support, and operations
+                   └─ Developing 3D interactive websites with Three.js and WebGL
+
+  2024 → Present   Web Development
+  ─────────────    ├─ HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS
+                   ├─ Shopify Liquid & OS 2.0 theme architecture
+                   └─ Responsive, SEO-optimized, PWA-ready web applications
+
+  May 2025 → Now   Project Coordinator @ Growth99
+  ─────────────    ├─ Service delivery coordination across digital teams
+                   └─ SLA compliance and client workflows
+
+  Mar 2021 → 2025  Project Coordinator @ K2Logix  (4 years)
+  ─────────────    ├─ Managed 100+ Shopify and WordPress projects
+                   └─ Streamlined operations through SOP standardization
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Tools I Work With Daily
+
+</div>
+
+<br/>
+
+**Shopify** &nbsp;·&nbsp; Shopify CLI &nbsp;·&nbsp; Liquid &nbsp;·&nbsp; OS 2.0 &nbsp;·&nbsp; Partner Dashboard &nbsp;·&nbsp; Theme Store
+
+**Project Management** &nbsp;·&nbsp; Jira &nbsp;·&nbsp; ClickUp &nbsp;·&nbsp; Asana &nbsp;·&nbsp; Monday.com &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Trello &nbsp;·&nbsp; Basecamp &nbsp;·&nbsp; Smartsheet
+
+**Automation** &nbsp;·&nbsp; n8n &nbsp;·&nbsp; Make (Integromat) &nbsp;·&nbsp; Zapier
+
+**AI Tools** &nbsp;·&nbsp; ChatGPT &nbsp;·&nbsp; OpenAI &nbsp;·&nbsp; Claude &nbsp;·&nbsp; Anthropic &nbsp;·&nbsp; Google Gemini &nbsp;·&nbsp; Perplexity &nbsp;·&nbsp; Hugging Face &nbsp;·&nbsp; Midjourney &nbsp;·&nbsp; DALL·E &nbsp;·&nbsp; Stable Diffusion &nbsp;·&nbsp; Runway &nbsp;·&nbsp; Gamma.app
+
+**Communication** &nbsp;·&nbsp; Slack &nbsp;·&nbsp; Microsoft Teams &nbsp;·&nbsp; Zoom &nbsp;·&nbsp; Google Meet &nbsp;·&nbsp; Loom
+
+**Analytics** &nbsp;·&nbsp; Google Analytics (GA4) &nbsp;·&nbsp; Search Console &nbsp;·&nbsp; Tag Manager
+
+**Platforms** &nbsp;·&nbsp; Shopify &nbsp;·&nbsp; WordPress &nbsp;·&nbsp; WooCommerce &nbsp;·&nbsp; Wix &nbsp;·&nbsp; Squarespace &nbsp;·&nbsp; Webflow &nbsp;·&nbsp; Magento
+
+**Hosting** &nbsp;·&nbsp; Hostinger &nbsp;·&nbsp; GoDaddy &nbsp;·&nbsp; Namecheap &nbsp;·&nbsp; Cloudflare
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Languages
+
+🇬🇧 &nbsp;English &nbsp;&nbsp;|&nbsp;&nbsp; 🇮🇳 &nbsp;Hindi &nbsp;&nbsp;|&nbsp;&nbsp; 🇵🇰 &nbsp;Urdu &nbsp;&nbsp;|&nbsp;&nbsp; Kashmiri
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Let's Connect
+
+<br/>
+
+[![Email](https://img.shields.io/badge/✦%20rayeesyousuf80%40gmail.com-1a1208?style=for-the-badge&logo=gmail&logoColor=C9A96E)](mailto:rayeesyousuf80@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/✦%20LinkedIn-1a1208?style=for-the-badge&logo=linkedin&logoColor=C9A96E)](https://www.linkedin.com/in/rayeesyousuf/)&nbsp;
+[![GitHub](https://img.shields.io/badge/✦%20GitHub-1a1208?style=for-the-badge&logo=github&logoColor=C9A96E)](https://github.com/RayeesYousufGenAi)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Philosophy
+
+</div>
+
+<br/>
+
+> **"The best solution is elegant, zero unnecessary dependencies, and documented for whoever comes after you."**
+
+- 🎯 &nbsp;**Practical solutions** &nbsp;over complex architectures
+- 💰 &nbsp;**Cost-effectiveness** &nbsp;over expensive tools
+- 🔧 &nbsp;**Zero-dependency by default** &nbsp;— vanilla JS over frameworks where possible
+- 📚 &nbsp;**Knowledge sharing** &nbsp;over gatekeeping
+- 🔄 &nbsp;**Continuous improvement** &nbsp;over perfection
+- 🤝 &nbsp;**Collaboration** &nbsp;over competition
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Activity
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RayeesYousufGenAi&color=C9A96E&style=for-the-badge&label=✦+Visitors)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/RayeesYousufGenAi?style=for-the-badge&color=C9A96E&labelColor=1a1208&label=✦+Followers)&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/RayeesYousufGenAi?style=for-the-badge&color=C9A96E&labelColor=1a1208&label=✦+Stars)
+
+<br/>
+
+*⭐ Star my repositories if you find them useful*
+
+<br/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "From managing workflows to building the tools that
+   automate them — one theme and one agent at a time"  🚀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br/>
 
 ---
 
@@ -495,5 +624,5 @@ I believe in:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1208,60:C9A96E,100:0d1117&height=140&section=footer&text=Built%20with%20precision.%20Shipped%20with%20purpose.&fontSize=16&fontColor=C9A96E&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
