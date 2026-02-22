@@ -28,7 +28,7 @@
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✦  Shopify Theme Developer  ·  AI Automation Engineer  ✦
-       Web Developer  ·  Project Manager  ·  Srinagar, J&K 🇮🇳
+       Web Developer  ·  Project Manager  ·  Kathua, J&K 🇮🇳
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -60,7 +60,7 @@ I build **custom Shopify OS 2.0 themes** with 75+ hand-coded sections, **AI-powe
 
 - 🎨 &nbsp;**Shopify Theme Dev** &nbsp;·&nbsp; Engineering premium custom OS 2.0 themes from scratch — Liquid, vanilla JS, CSS, 75+ sections, AJAX cart, animations, complete settings systems
 - 🔭 &nbsp;**Currently** &nbsp;·&nbsp; Building custom Shopify themes, AI automation agents, web apps, and 3D interactive websites
-- 💼 &nbsp;**Background** &nbsp;·&nbsp; 6+ years as Project Manager / Coordinator&Operations
+- 💼 &nbsp;**Background** &nbsp;·&nbsp; 5+ years as Project Manager & Operations Coordinator
 - 💻 &nbsp;**Web Development** &nbsp;·&nbsp; Building modern web applications since 2024 using full-stack technologies
 - 🌐 &nbsp;**3D Development** &nbsp;·&nbsp; Creating immersive 3D websites with Three.js and WebGL
 - 🛒 &nbsp;**Ecommerce Expertise** &nbsp;·&nbsp; Custom Shopify themes & stores, payment gateway API integration (Razorpay, Stripe, PayPal)
@@ -189,6 +189,10 @@ I build **custom Shopify OS 2.0 themes** with 75+ hand-coded sections, **AI-powe
 ![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge)
 ![Tabnine](https://img.shields.io/badge/Tabnine-5B4FE9?style=for-the-badge)
 ![Replit AI](https://img.shields.io/badge/Replit%20AI-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 #### 📈 &nbsp;Analytics & SEO
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
