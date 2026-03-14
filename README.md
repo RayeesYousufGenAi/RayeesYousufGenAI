@@ -487,30 +487,6 @@ const expertise = {
 
 </div>
 
-<br/>
-
-```
-  2026 → Present   Shopify Theme Developer & AI Automation Engineer
-  ─────────────    ├─ Engineering premium custom Shopify OS 2.0 themes from scratch
-                   ├─ Building 75+ section libraries · Delivering to the Shopify Theme Store
-                   ├─ Creating AI agents for hiring, support, and operations
-                   └─ Developing 3D interactive websites with Three.js and WebGL
-
-  2024 → Present   Web Development
-  ─────────────    ├─ HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS
-                   ├─ Shopify Liquid & OS 2.0 theme architecture
-                   └─ Responsive, SEO-optimized, PWA-ready web applications
-
-  May 2025 → Now   Project Coordinator @ Growth99
-  ─────────────    ├─ Service delivery coordination across digital teams
-                   └─ SLA compliance and client workflows
-
-  Mar 2021 → 2025  Project Coordinator @ K2Logix  (4 years)
-  ─────────────    ├─ Managed 100+ Shopify and WordPress projects
-                   └─ Streamlined operations through SOP standardization
-```
-
-<br/>
 
 ---
 
