@@ -186,7 +186,7 @@ mission: "Transforming complex business operations into high-velocity, automated
 
 #### 🛍️ **Shopify & Ecommerce Architecture**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=shopify,liquid,js,css,html,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=shopify,js,ts,html,css,wordpress&theme=dark" />
 </p>
 <p align="center">
   <code>Shopify OS 2.0</code> • <code>Liquid Templating</code> • <code>Shopify CLI</code> • <code>WooCommerce</code> • <code>Webflow</code> • <code>Headless Ecommerce</code>
@@ -216,10 +216,15 @@ mission: "Transforming complex business operations into high-velocity, automated
 
 #### 📊 **Project Management & Operations (5+ Years)**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,figma,slack,discord&theme=dark" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white" />
 </p>
 <p align="center">
-  <code>Jira Agile / Scrum</code> • <code>ClickUp</code> • <code>Asana</code> • <code>Monday.com</code> • <code>Notion Workspaces</code> • <code>Tech Operations Leadership</code>
+  <code>Agile & Scrum Sprints</code> • <code>Cross-Functional Team Leadership</code> • <code>Sprint Roadmapping</code> • <code>Tech Operations</code>
 </p>
 
 </div>
