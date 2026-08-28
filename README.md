@@ -256,7 +256,7 @@ mission: "Transforming complex business operations into high-velocity, automated
   <br/>
 
   <!-- ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RayeesYousufGenAi&bg_color=0D1117&color=38BDF8&line=818CF8&point=F43F5E&area=true&hide_border=false&border_radius=8" width="100%" alt="Activity Wave Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RayeesYousufGenAi&theme=tokyonight" alt="Productive Time Activity" />
 
 </div>
 
